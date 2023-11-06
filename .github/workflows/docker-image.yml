@@ -49,5 +49,5 @@ jobs:
           context: .
           file: .devcontainer/Dockerfile
           push: true
-          tags: user/app:latest
+          tags: djqjq163com/test
       
